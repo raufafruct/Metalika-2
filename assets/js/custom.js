@@ -55,7 +55,7 @@ $(document).ready(function(){
 				dots:true,
 				mouseDrag:true,
 				nav:false,
-				smartSpeed:1000,
+				autoplayTimeout: 25000,
 				transitionStyle:"fade",
 				animateIn: 'fadeIn',
 				animateOut: 'fadeOutLeft'

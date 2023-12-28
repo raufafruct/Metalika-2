@@ -9,7 +9,7 @@
 @media screen and (max-width:1199px){
 	.welcome-hero-txt h2{font-size: 40px;}
 	.welcome-btn.model-search-btn {margin-left: 28px;}
-	.featured-cars-img {padding: 0 10px;}
+	
 }/*max-width:1199px*/
 
 @media screen and (max-width:1024px){
